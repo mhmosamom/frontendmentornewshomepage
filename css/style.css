@@ -136,8 +136,8 @@ main .img-web {
 }
 aside {
     margin-bottom: 30px;
-    width: 100%;
     max-width: 367px;
+    width: 100%;
     padding: 30px 20px;
     background-color: hsl(240, 100%, 5%);
 }
